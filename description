@@ -1,1 +1,30 @@
+Overview
+This project is an AI-driven, blockchain-based bug bounty platform that enables secure, transparent, and private vulnerability reporting using Zero-Knowledge Proofs (ZKPs). It integrates smart contracts, AI-powered bug ranking, DAO governance, and automated bounty payments to revolutionize cybersecurity in the Web3 ecosystem.
+Key Features
+> Decentralized Bug Reporting – Researchers submit bugs without revealing full details using ZKPs.
+> AI-Powered Bug Ranking – Machine learning models classify and prioritize vulnerabilities based on severity.
+>Automated Bounty Payments – Smart contracts release payments instantly upon successful bug verification.
+> DAO Governance for Dispute Resolution – Community-driven decision-making for handling disputes.
+> Zero-Knowledge Proofs (ZKPs) for Privacy – Secure vulnerability disclosure without exposing sensitive data.
+> Seamless Integration with Web3 & Smart Contracts – Supports Ethereum, Polygon, and other EVM-compatible chains.
+> Secure, Trustless, and Transparent – Eliminates the need for centralized bug bounty platforms.
+Tech Stack
+•	Blockchain: Solidity, Hardhat, Ethereum, Polygon
+•	AI/ML: Python, TensorFlow, Scikit-learn
+•	ZKP Frameworks: zk-SNARKs, zk-STARKs, Circom
+•	Smart Contracts: ERC-20, ERC-721, ERC-1155 for bounty rewards
+•	Frontend: React.js, Next.js, Web3.js
+•	Backend: Node.js, Express, IPFS for decentralized storage
+How It Works
+1️ Security researcher submits a bug report using ZKPs.
+2️ AI engine ranks the bug based on severity and impact.
+3️ Smart contract verifies and processes the bug submission.
+4️ DAO governance resolves disputes if necessary.
+5️ Bounty is automatically distributed to the researcher upon approval.
 
+Why This Matters?
+Traditional bug bounty platforms are centralized, exposing security risks, high fees, and trust issues. Our platform leverages decentralization, AI, and cryptographic proofs to create a secure, efficient, and fair ecosystem for ethical hackers and organizations.
+Get Involved
+Developers – Contribute to the smart contracts and AI models.
+ Security Researchers – Help secure Web3 by reporting vulnerabilities.
+Organizations – Use our platform for transparent security audits.
